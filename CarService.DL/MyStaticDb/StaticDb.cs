@@ -9,14 +9,14 @@ namespace CarService.DL.MyStaticDb
             new Customer()
             {
                 Id = Guid.NewGuid(),
-                Name = "John Doe",
-                Email = "jd@xxx.com"
+                Name = "Romeo Bulian",
+                Email = "rb@xxx.com"
             },
             new Customer()
             {
                 Id = Guid.NewGuid(),
-                Name = "Jane Smith",
-                Email = "js@xxx.com"
+                Name = "Jonathan Joestar",
+                Email = "jj@xxx.com"
             }
         };
 
